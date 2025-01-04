@@ -1,0 +1,66 @@
+D:\ChinaMall\bin\Debug\net6.0\ChinaMall.exe
+D:\ChinaMall\bin\Debug\net6.0\ChinaMall.deps.json
+D:\ChinaMall\bin\Debug\net6.0\ChinaMall.runtimeconfig.json
+D:\ChinaMall\bin\Debug\net6.0\ChinaMall.dll
+D:\ChinaMall\bin\Debug\net6.0\ChinaMall.pdb
+D:\ChinaMall\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ChinaMall\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ChinaMall\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ChinaMall\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ChinaMall\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ChinaMall\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.csproj.AssemblyReference.cache
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.AssemblyInfoInputs.cache
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.AssemblyInfo.cs
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.csproj.CoreCompileInputs.cache
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.csproj.CopyComplete
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.dll
+D:\ChinaMall\obj\Debug\net6.0\refint\ChinaMall.dll
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.pdb
+D:\ChinaMall\obj\Debug\net6.0\ChinaMall.genruntimeconfig.cache
+D:\ChinaMall\obj\Debug\net6.0\ref\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\ChinaMall.exe
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\ChinaMall.deps.json
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\ChinaMall.runtimeconfig.json
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\ChinaMall.pdb
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.csproj.AssemblyReference.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.GeneratedMSBuildEditorConfig.editorconfig
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.AssemblyInfoInputs.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.AssemblyInfo.cs
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.csproj.CoreCompileInputs.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.csproj.CopyComplete
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\refint\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.pdb
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ChinaMall.genruntimeconfig.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\ChinaMall\obj\Debug\net6.0\ref\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\ChinaMall.exe
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\ChinaMall.deps.json
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\ChinaMall.runtimeconfig.json
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\ChinaMall.pdb
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.csproj.AssemblyReference.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.GeneratedMSBuildEditorConfig.editorconfig
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.AssemblyInfoInputs.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.AssemblyInfo.cs
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.csproj.CoreCompileInputs.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.csproj.CopyComplete
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\refint\ChinaMall.dll
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.pdb
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ChinaMall.genruntimeconfig.cache
+C:\ضروري\css\لغات برمجة وتقنيات\c#\sql server\china mall\final\obj\Debug\net6.0\ref\ChinaMall.dll
