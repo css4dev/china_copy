@@ -64,7 +64,21 @@ namespace ChinaMall
                     {
                         try
                         {
-                            String name = rdr1.GetString(0).Replace(",", " ");
+                            String name = rdr1.GetString(0);
+                           name = name.Replace(",", " ")      // استبدال الفاصلة
+           .Replace("\"", " ")     // استبدال علامات الاقتباس المزدوجة
+           .Replace("\n", " ")     // استبدال السطر الجديد
+           .Replace("\r", " ")     // استبدال العودة إلى بداية السطر
+           .Replace("\'", " ")     // استبدال العودة إلى بداية السطر
+           .Replace("\t", " ")     // استبدال علامات التبويب
+           .Replace(";", " ")      // استبدال الفاصلة المنقوطة
+           .Replace("\\", " ")     // استبدال الشرطة المائلة
+           .Replace("/", " ")      // استبدال الشرطة المائلة الأمامية
+           .Replace("*", " ")      // استبدال علامة النجمة
+           .Replace("?", " ")      // استبدال علامة السؤال
+           .Replace("#", " ")      // استبدال علامة #
+           .Replace("%", " ");     // استبدال علامة %
+
                             //Suggestion made by KyleMit
                             newLine = string.Format("{0},{1},{2},{3},{4},{5},{6}", name, rdr1.GetInt64(1), rdr1.GetDouble(2), rdr1.GetDouble(3), rdr1.GetString(4), rdr1.GetString(5), rdr1.GetDouble(6));
                             // Console.WriteLine(newLine);
